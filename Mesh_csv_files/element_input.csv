@@ -1,0 +1,2256 @@
+"Element 1 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   4          21         70         37
+"Element 2 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   21         20         71         70
+"Element 3 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   20         19         72         71
+"Element 4 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   19         18         73         72
+"Element 5 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   18         17         44         73
+"Element 6 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   37         70         74         38
+"Element 7 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   70         71         75         74
+"Element 8 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   71         72         76         75
+"Element 9 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   72         73         77         76
+"Element 10 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   73         44         45         77
+"Element 11 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   38         74         69         39
+"Element 12 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   74         75         68         69
+"Element 13 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   75         76         67         68
+"Element 14 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   76         77         66         67
+"Element 15 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 9
+Nodes   77         45         46         66
+"Element 16 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   4          3          99         21
+"Element 17 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   3          2          100        99
+"Element 18 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   2          1          90         100
+"Element 19 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   21         99         101        20
+"Element 20 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   99         100        102        101
+"Element 21 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   100        90         91         102
+"Element 22 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   20         101        103        19
+"Element 23 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   101        102        104        103
+"Element 24 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   102        91         92         104
+"Element 25 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   19         103        105        18
+"Element 26 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   103        104        106        105
+"Element 27 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   104        92         93         106
+"Element 28 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   18         105        107        17
+"Element 29 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   105        106        108        107
+"Element 30 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   106        93         94         108
+"Element 31 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   17         107        109        50
+"Element 32 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   107        108        110        109
+"Element 33 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   108        94         95         110
+"Element 34 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   50         109        111        49
+"Element 35 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   109        110        112        111
+"Element 36 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   110        95         96         112
+"Element 37 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   49         111        113        48
+"Element 38 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   111        112        114        113
+"Element 39 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   112        96         97         114
+"Element 40 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   48         113        115        47
+"Element 41 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   113        114        116        115
+"Element 42 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   114        97         98         116
+"Element 43 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   47         115        7          8
+"Element 44 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   115        116        6          7
+"Element 45 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 5
+Nodes   116        98         5          6
+"Element 46 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   46         45         131        130
+"Element 47 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   45         44         132        131
+"Element 48 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   44         17         54         132
+"Element 49 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   130        131        133        129
+"Element 50 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   131        132        134        133
+"Element 51 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   132        54         55         134
+"Element 52 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   129        133        135        128
+"Element 53 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   133        134        136        135
+"Element 54 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   134        55         56         136
+"Element 55 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   128        135        137        127
+"Element 56 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   135        136        138        137
+"Element 57 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   136        56         57         138
+"Element 58 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   127        137        139        126
+"Element 59 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   137        138        140        139
+"Element 60 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   138        57         58         140
+"Element 61 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   126        139        141        125
+"Element 62 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   139        140        142        141
+"Element 63 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   140        58         59         142
+"Element 64 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   125        141        143        124
+"Element 65 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   141        142        144        143
+"Element 66 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   142        59         60         144
+"Element 67 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   124        143        145        123
+"Element 68 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   143        144        146        145
+"Element 69 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   144        60         61         146
+"Element 70 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   123        145        147        122
+"Element 71 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   145        146        148        147
+"Element 72 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   146        61         62         148
+"Element 73 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   122        147        149        121
+"Element 74 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   147        148        150        149
+"Element 75 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   148        62         63         150
+"Element 76 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   121        149        151        120
+"Element 77 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   149        150        152        151
+"Element 78 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   150        63         64         152
+"Element 79 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   120        151        118        119
+"Element 80 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   151        152        117        118
+"Element 81 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 10
+Nodes   152        64         65         117
+"Element 82 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   17         50         173        54
+"Element 83 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   50         49         174        173
+"Element 84 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   49         48         175        174
+"Element 85 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   48         47         176        175
+"Element 86 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   47         8          78         176
+"Element 87 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   54         173        177        55
+"Element 88 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   173        174        178        177
+"Element 89 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   174        175        179        178
+"Element 90 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   175        176        180        179
+"Element 91 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   176        78         79         180
+"Element 92 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   55         177        181        56
+"Element 93 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   177        178        182        181
+"Element 94 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   178        179        183        182
+"Element 95 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   179        180        184        183
+"Element 96 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   180        79         80         184
+"Element 97 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   56         181        185        57
+"Element 98 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   181        182        186        185
+"Element 99 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   182        183        187        186
+"Element 100 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   183        184        188        187
+"Element 101 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   184        80         81         188
+"Element 102 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   57         185        189        58
+"Element 103 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   185        186        190        189
+"Element 104 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   186        187        191        190
+"Element 105 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   187        188        192        191
+"Element 106 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   188        81         82         192
+"Element 107 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   58         189        193        59
+"Element 108 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   189        190        194        193
+"Element 109 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   190        191        195        194
+"Element 110 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   191        192        196        195
+"Element 111 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   192        82         83         196
+"Element 112 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   59         193        197        60
+"Element 113 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   193        194        198        197
+"Element 114 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   194        195        199        198
+"Element 115 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   195        196        200        199
+"Element 116 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   196        83         84         200
+"Element 117 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   60         197        201        61
+"Element 118 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   197        198        202        201
+"Element 119 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   198        199        203        202
+"Element 120 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   199        200        204        203
+"Element 121 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   200        84         85         204
+"Element 122 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   61         201        205        62
+"Element 123 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   201        202        206        205
+"Element 124 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   202        203        207        206
+"Element 125 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   203        204        208        207
+"Element 126 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   204        85         86         208
+"Element 127 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   62         205        209        63
+"Element 128 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   205        206        210        209
+"Element 129 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   206        207        211        210
+"Element 130 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   207        208        212        211
+"Element 131 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   208        86         87         212
+"Element 132 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   63         209        213        64
+"Element 133 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   209        210        214        213
+"Element 134 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   210        211        215        214
+"Element 135 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   211        212        216        215
+"Element 136 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   212        87         88         216
+"Element 137 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   64         213        172        65
+"Element 138 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   213        214        171        172
+"Element 139 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   214        215        170        171
+"Element 140 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   215        216        169        170
+"Element 141 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 11
+Nodes   216        88         89         169
+"Element 142 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   8          36         224        78
+"Element 143 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   36         35         225        224
+"Element 144 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   35         34         226        225
+"Element 145 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   34         33         227        226
+"Element 146 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   33         32         153        227
+"Element 147 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   78         224        228        79
+"Element 148 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   224        225        229        228
+"Element 149 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   225        226        230        229
+"Element 150 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   226        227        231        230
+"Element 151 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   227        153        154        231
+"Element 152 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   79         228        232        80
+"Element 153 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   228        229        233        232
+"Element 154 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   229        230        234        233
+"Element 155 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   230        231        235        234
+"Element 156 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   231        154        155        235
+"Element 157 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   80         232        236        81
+"Element 158 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   232        233        237        236
+"Element 159 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   233        234        238        237
+"Element 160 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   234        235        239        238
+"Element 161 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   235        155        156        239
+"Element 162 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   81         236        240        82
+"Element 163 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   236        237        241        240
+"Element 164 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   237        238        242        241
+"Element 165 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   238        239        243        242
+"Element 166 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   239        156        157        243
+"Element 167 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   82         240        244        83
+"Element 168 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   240        241        245        244
+"Element 169 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   241        242        246        245
+"Element 170 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   242        243        247        246
+"Element 171 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   243        157        158        247
+"Element 172 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   83         244        248        84
+"Element 173 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   244        245        249        248
+"Element 174 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   245        246        250        249
+"Element 175 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   246        247        251        250
+"Element 176 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   247        158        159        251
+"Element 177 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   84         248        252        85
+"Element 178 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   248        249        253        252
+"Element 179 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   249        250        254        253
+"Element 180 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   250        251        255        254
+"Element 181 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   251        159        160        255
+"Element 182 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   85         252        256        86
+"Element 183 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   252        253        257        256
+"Element 184 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   253        254        258        257
+"Element 185 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   254        255        259        258
+"Element 186 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   255        160        161        259
+"Element 187 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   86         256        260        87
+"Element 188 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   256        257        261        260
+"Element 189 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   257        258        262        261
+"Element 190 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   258        259        263        262
+"Element 191 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   259        161        162        263
+"Element 192 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   87         260        264        88
+"Element 193 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   260        261        265        264
+"Element 194 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   261        262        266        265
+"Element 195 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   262        263        267        266
+"Element 196 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   263        162        163        267
+"Element 197 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   88         264        223        89
+"Element 198 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   264        265        222        223
+"Element 199 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   265        266        221        222
+"Element 200 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   266        267        220        221
+"Element 201 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 12
+Nodes   267        163        164        220
+"Element 202 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   13         14         280        279
+"Element 203 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   14         15         281        280
+"Element 204 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   15         16         165        281
+"Element 205 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   279        280        282        278
+"Element 206 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   280        281        283        282
+"Element 207 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   281        165        166        283
+"Element 208 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   278        282        284        277
+"Element 209 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   282        283        285        284
+"Element 210 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   283        166        167        285
+"Element 211 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   277        284        286        276
+"Element 212 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   284        285        287        286
+"Element 213 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   285        167        168        287
+"Element 214 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   276        286        288        275
+"Element 215 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   286        287        289        288
+"Element 216 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   287        168        32         289
+"Element 217 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   275        288        290        274
+"Element 218 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   288        289        291        290
+"Element 219 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   289        32         33         291
+"Element 220 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   274        290        292        273
+"Element 221 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   290        291        293        292
+"Element 222 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   291        33         34         293
+"Element 223 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   273        292        294        272
+"Element 224 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   292        293        295        294
+"Element 225 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   293        34         35         295
+"Element 226 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   272        294        296        271
+"Element 227 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   294        295        297        296
+"Element 228 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   295        35         36         297
+"Element 229 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   271        296        6          5
+"Element 230 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   296        297        7          6
+"Element 231 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 6
+Nodes   297        36         8          7
+"Element 232 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   164        163        312        311
+"Element 233 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   163        162        313        312
+"Element 234 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   162        161        314        313
+"Element 235 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   161        160        315        314
+"Element 236 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   160        159        316        315
+"Element 237 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   159        158        317        316
+"Element 238 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   158        157        318        317
+"Element 239 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   157        156        319        318
+"Element 240 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   156        155        320        319
+"Element 241 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   155        154        321        320
+"Element 242 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   154        153        322        321
+"Element 243 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   153        32         217        322
+"Element 244 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   311        312        323        310
+"Element 245 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   312        313        324        323
+"Element 246 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   313        314        325        324
+"Element 247 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   314        315        326        325
+"Element 248 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   315        316        327        326
+"Element 249 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   316        317        328        327
+"Element 250 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   317        318        329        328
+"Element 251 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   318        319        330        329
+"Element 252 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   319        320        331        330
+"Element 253 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   320        321        332        331
+"Element 254 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   321        322        333        332
+"Element 255 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   322        217        218        333
+"Element 256 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   310        323        308        309
+"Element 257 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   323        324        307        308
+"Element 258 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   324        325        306        307
+"Element 259 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   325        326        305        306
+"Element 260 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   326        327        304        305
+"Element 261 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   327        328        303        304
+"Element 262 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   328        329        302        303
+"Element 263 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   329        330        301        302
+"Element 264 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   330        331        300        301
+"Element 265 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   331        332        299        300
+"Element 266 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   332        333        298        299
+"Element 267 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 13
+Nodes   333        218        219        298
+"Element 268 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   32         168        345        217
+"Element 269 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   168        167        346        345
+"Element 270 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   167        166        347        346
+"Element 271 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   166        165        348        347
+"Element 272 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   165        16         268        348
+"Element 273 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   217        345        349        218
+"Element 274 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   345        346        350        349
+"Element 275 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   346        347        351        350
+"Element 276 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   347        348        352        351
+"Element 277 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   348        268        269        352
+"Element 278 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   218        349        344        219
+"Element 279 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   349        350        343        344
+"Element 280 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   350        351        342        343
+"Element 281 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   351        352        341        342
+"Element 282 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 14
+Nodes   352        269        270        341
+"Element 283 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   16         26         369        268
+"Element 284 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   26         25         370        369
+"Element 285 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   25         24         371        370
+"Element 286 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   24         23         372        371
+"Element 287 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   23         22         334        372
+"Element 288 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   268        369        373        269
+"Element 289 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   369        370        374        373
+"Element 290 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   370        371        375        374
+"Element 291 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   371        372        376        375
+"Element 292 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   372        334        335        376
+"Element 293 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   269        373        368        270
+"Element 294 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   373        374        367        368
+"Element 295 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   374        375        366        367
+"Element 296 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   375        376        365        366
+"Element 297 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 15
+Nodes   376        335        336        365
+"Element 298 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   16         15         398        26
+"Element 299 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   15         14         399        398
+"Element 300 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   14         13         389        399
+"Element 301 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   26         398        400        25
+"Element 302 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   398        399        401        400
+"Element 303 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   399        389        390        401
+"Element 304 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   25         400        402        24
+"Element 305 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   400        401        403        402
+"Element 306 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   401        390        391        403
+"Element 307 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   24         402        404        23
+"Element 308 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   402        403        405        404
+"Element 309 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   403        391        392        405
+"Element 310 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   23         404        406        22
+"Element 311 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   404        405        407        406
+"Element 312 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   405        392        393        407
+"Element 313 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   22         406        408        340
+"Element 314 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   406        407        409        408
+"Element 315 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   407        393        394        409
+"Element 316 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   340        408        410        339
+"Element 317 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   408        409        411        410
+"Element 318 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   409        394        395        411
+"Element 319 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   339        410        412        338
+"Element 320 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   410        411        413        412
+"Element 321 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   411        395        396        413
+"Element 322 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   338        412        414        337
+"Element 323 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   412        413        415        414
+"Element 324 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   413        396        397        415
+"Element 325 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   337        414        11         10
+"Element 326 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   414        415        12         11
+"Element 327 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 3
+Nodes   415        397        9          12
+"Element 328 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   336        335        430        429
+"Element 329 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   335        334        431        430
+"Element 330 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   334        22         353        431
+"Element 331 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   429        430        432        428
+"Element 332 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   430        431        433        432
+"Element 333 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   431        353        354        433
+"Element 334 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   428        432        434        427
+"Element 335 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   432        433        435        434
+"Element 336 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   433        354        355        435
+"Element 337 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   427        434        436        426
+"Element 338 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   434        435        437        436
+"Element 339 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   435        355        356        437
+"Element 340 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   426        436        438        425
+"Element 341 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   436        437        439        438
+"Element 342 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   437        356        357        439
+"Element 343 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   425        438        440        424
+"Element 344 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   438        439        441        440
+"Element 345 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   439        357        358        441
+"Element 346 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   424        440        442        423
+"Element 347 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   440        441        443        442
+"Element 348 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   441        358        359        443
+"Element 349 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   423        442        444        422
+"Element 350 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   442        443        445        444
+"Element 351 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   443        359        360        445
+"Element 352 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   422        444        446        421
+"Element 353 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   444        445        447        446
+"Element 354 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   445        360        361        447
+"Element 355 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   421        446        448        420
+"Element 356 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   446        447        449        448
+"Element 357 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   447        361        362        449
+"Element 358 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   420        448        450        419
+"Element 359 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   448        449        451        450
+"Element 360 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   449        362        363        451
+"Element 361 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   419        450        417        418
+"Element 362 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   450        451        416        417
+"Element 363 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 16
+Nodes   451        363        364        416
+"Element 364 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   9          464        473        12
+"Element 365 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   464        465        474        473
+"Element 366 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   465        466        475        474
+"Element 367 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   466        467        476        475
+"Element 368 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   467        468        477        476
+"Element 369 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   468        469        478        477
+"Element 370 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   469        470        479        478
+"Element 371 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   470        471        480        479
+"Element 372 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   471        472        481        480
+"Element 373 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   472        1          2          481
+"Element 374 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   12         473        482        11
+"Element 375 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   473        474        483        482
+"Element 376 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   474        475        484        483
+"Element 377 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   475        476        485        484
+"Element 378 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   476        477        486        485
+"Element 379 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   477        478        487        486
+"Element 380 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   478        479        488        487
+"Element 381 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   479        480        489        488
+"Element 382 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   480        481        490        489
+"Element 383 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   481        2          3          490
+"Element 384 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   11         482        43         10
+"Element 385 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   482        483        42         43
+"Element 386 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   483        484        41         42
+"Element 387 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   484        485        40         41
+"Element 388 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   485        486        31         40
+"Element 389 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   486        487        30         31
+"Element 390 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   487        488        29         30
+"Element 391 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   488        489        28         29
+"Element 392 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   489        490        27         28
+"Element 393 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 4
+Nodes   490        3          4          27
+"Element 394 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   22         340        495        353
+"Element 395 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   340        339        496        495
+"Element 396 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   339        338        497        496
+"Element 397 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   338        337        498        497
+"Element 398 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   337        10         377        498
+"Element 399 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   353        495        499        354
+"Element 400 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   495        496        500        499
+"Element 401 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   496        497        501        500
+"Element 402 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   497        498        502        501
+"Element 403 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   498        377        378        502
+"Element 404 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   354        499        503        355
+"Element 405 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   499        500        504        503
+"Element 406 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   500        501        505        504
+"Element 407 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   501        502        506        505
+"Element 408 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   502        378        379        506
+"Element 409 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   355        503        507        356
+"Element 410 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   503        504        508        507
+"Element 411 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   504        505        509        508
+"Element 412 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   505        506        510        509
+"Element 413 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   506        379        380        510
+"Element 414 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   356        507        511        357
+"Element 415 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   507        508        512        511
+"Element 416 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   508        509        513        512
+"Element 417 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   509        510        514        513
+"Element 418 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   510        380        381        514
+"Element 419 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   357        511        515        358
+"Element 420 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   511        512        516        515
+"Element 421 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   512        513        517        516
+"Element 422 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   513        514        518        517
+"Element 423 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   514        381        382        518
+"Element 424 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   358        515        519        359
+"Element 425 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   515        516        520        519
+"Element 426 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   516        517        521        520
+"Element 427 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   517        518        522        521
+"Element 428 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   518        382        383        522
+"Element 429 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   359        519        523        360
+"Element 430 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   519        520        524        523
+"Element 431 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   520        521        525        524
+"Element 432 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   521        522        526        525
+"Element 433 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   522        383        384        526
+"Element 434 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   360        523        527        361
+"Element 435 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   523        524        528        527
+"Element 436 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   524        525        529        528
+"Element 437 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   525        526        530        529
+"Element 438 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   526        384        385        530
+"Element 439 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   361        527        531        362
+"Element 440 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   527        528        532        531
+"Element 441 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   528        529        533        532
+"Element 442 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   529        530        534        533
+"Element 443 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   530        385        386        534
+"Element 444 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   362        531        535        363
+"Element 445 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   531        532        536        535
+"Element 446 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   532        533        537        536
+"Element 447 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   533        534        538        537
+"Element 448 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   534        386        387        538
+"Element 449 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   363        535        494        364
+"Element 450 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   535        536        493        494
+"Element 451 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   536        537        492        493
+"Element 452 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   537        538        491        492
+"Element 453 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 17
+Nodes   538        387        388        491
+"Element 454 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   463        462        553        552
+"Element 455 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   462        461        554        553
+"Element 456 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   461        460        555        554
+"Element 457 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   460        459        556        555
+"Element 458 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   459        458        557        556
+"Element 459 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   458        457        558        557
+"Element 460 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   457        456        559        558
+"Element 461 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   456        455        560        559
+"Element 462 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   455        454        561        560
+"Element 463 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   454        453        562        561
+"Element 464 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   453        452        563        562
+"Element 465 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   452        31         53         563
+"Element 466 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   552        553        564        551
+"Element 467 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   553        554        565        564
+"Element 468 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   554        555        566        565
+"Element 469 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   555        556        567        566
+"Element 470 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   556        557        568        567
+"Element 471 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   557        558        569        568
+"Element 472 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   558        559        570        569
+"Element 473 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   559        560        571        570
+"Element 474 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   560        561        572        571
+"Element 475 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   561        562        573        572
+"Element 476 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   562        563        574        573
+"Element 477 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   563        53         52         574
+"Element 478 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   551        564        549        550
+"Element 479 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   564        565        548        549
+"Element 480 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   565        566        547        548
+"Element 481 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   566        567        546        547
+"Element 482 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   567        568        545        546
+"Element 483 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   568        569        544        545
+"Element 484 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   569        570        543        544
+"Element 485 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   570        571        542        543
+"Element 486 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   571        572        541        542
+"Element 487 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   572        573        540        541
+"Element 488 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   573        574        539        540
+"Element 489 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 2
+Nodes   574        52         51         539
+"Element 490 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   388        387        579        578
+"Element 491 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   387        386        580        579
+"Element 492 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   386        385        581        580
+"Element 493 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   385        384        582        581
+"Element 494 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   384        383        583        582
+"Element 495 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   383        382        584        583
+"Element 496 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   382        381        585        584
+"Element 497 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   381        380        586        585
+"Element 498 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   380        379        587        586
+"Element 499 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   379        378        588        587
+"Element 500 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   378        377        589        588
+"Element 501 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   377        10         43         589
+"Element 502 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   578        579        590        577
+"Element 503 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   579        580        591        590
+"Element 504 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   580        581        592        591
+"Element 505 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   581        582        593        592
+"Element 506 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   582        583        594        593
+"Element 507 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   583        584        595        594
+"Element 508 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   584        585        596        595
+"Element 509 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   585        586        597        596
+"Element 510 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   586        587        598        597
+"Element 511 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   587        588        599        598
+"Element 512 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   588        589        600        599
+"Element 513 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   589        43         42         600
+"Element 514 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   577        590        601        576
+"Element 515 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   590        591        602        601
+"Element 516 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   591        592        603        602
+"Element 517 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   592        593        604        603
+"Element 518 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   593        594        605        604
+"Element 519 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   594        595        606        605
+"Element 520 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   595        596        607        606
+"Element 521 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   596        597        608        607
+"Element 522 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   597        598        609        608
+"Element 523 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   598        599        610        609
+"Element 524 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   599        600        611        610
+"Element 525 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   600        42         41         611
+"Element 526 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   576        601        612        575
+"Element 527 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   601        602        613        612
+"Element 528 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   602        603        614        613
+"Element 529 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   603        604        615        614
+"Element 530 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   604        605        616        615
+"Element 531 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   605        606        617        616
+"Element 532 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   606        607        618        617
+"Element 533 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   607        608        619        618
+"Element 534 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   608        609        620        619
+"Element 535 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   609        610        621        620
+"Element 536 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   610        611        622        621
+"Element 537 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   611        41         40         622
+"Element 538 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   575        612        462        463
+"Element 539 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   612        613        461        462
+"Element 540 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   613        614        460        461
+"Element 541 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   614        615        459        460
+"Element 542 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   615        616        458        459
+"Element 543 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   616        617        457        458
+"Element 544 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   617        618        456        457
+"Element 545 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   618        619        455        456
+"Element 546 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   619        620        454        455
+"Element 547 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   620        621        453        454
+"Element 548 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   621        622        452        453
+"Element 549 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 7
+Nodes   622        40         31         452
+"Element 550 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   31         30         627        53
+"Element 551 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   30         29         628        627
+"Element 552 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   29         28         629        628
+"Element 553 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   28         27         630        629
+"Element 554 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   27         4          37         630
+"Element 555 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   53         627        631        52
+"Element 556 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   627        628        632        631
+"Element 557 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   628        629        633        632
+"Element 558 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   629        630        634        633
+"Element 559 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   630        37         38         634
+"Element 560 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   52         631        626        51
+"Element 561 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   631        632        625        626
+"Element 562 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   632        633        624        625
+"Element 563 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   633        634        623        624
+"Element 564 - PLANE STRAIN    ( Quad, 4-noded )"
+Formulation: Default
+Property 3           Color 124    Layer 1           AttachTo 8
+Nodes   634        38         39         623
